@@ -1,9 +1,9 @@
-# Video Conferenceing
+# Video Conferencing
 
 
 ## Features
 1. Google Sign In
-2. Create New Meeting
+2. Create a New Meeting
 3. Join Meeting
 4. Mute/Unmute Audio
 5. Mute/Unmute Video
