@@ -1,6 +1,5 @@
-# Zoom Clone
+# Video Conferenceing
 
-Zoom Clone that works on Android & iOS! 
 
 ## Features
 1. Google Sign In
@@ -23,18 +22,23 @@ Zoom Clone that works on Android & iOS!
 18. See Your Meeting History
 19. Log out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/sMA1dKbv33Y) 
+## Screenshot 📸📸⬇️⬇️
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+1️⃣
+![photo_6123174586183959127_y](https://github.com/user-attachments/assets/d6bec3b0-5956-4a67-b0c4-1b5928f19948)
 
-## Tech Used
-**Server**: Firebase Auth, Firestore, Google Sign In, Jitsi Meet
-**Client**: Flutter
-    
-## Feedback
+2️⃣
+![photo_6123174586183959125_y](https://github.com/user-attachments/assets/7fe74b1e-b970-469d-8d87-7c7c98e27560)
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+3️⃣
+![photo_6123174586183959123_y](https://github.com/user-attachments/assets/a5e4b0d8-1625-49ad-971a-6ff142e4520b)
+
+4️⃣
+![photo_6123174586183959126_y](https://github.com/user-attachments/assets/e76af485-524d-4002-bb3c-9f18ce90c5f2)
+
+5️⃣
+![photo_6123174586183959124_y](https://github.com/user-attachments/assets/5c72d293-56e7-4bc6-83ff-e9e815cf97ea)
+
+
+
 
